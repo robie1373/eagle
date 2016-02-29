@@ -1,0 +1,4 @@
+.DS_Store
+Adafruit-FeatherWing-Proto-and-Doubler/**/*
+*\.[sb]#*
+*.lck
